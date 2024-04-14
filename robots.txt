@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magiccity.uz/sitemap.xml
+Host: https://magiccity.uz/
